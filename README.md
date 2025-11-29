@@ -1,4 +1,8 @@
 # GoodAffinityExport
+<br>
+
+## NEW: Updated with scripts supporting Affinity v3 (Unified)
+
 *Tired of Serif's Shift+Ctrl+Alt+S affinity export shortcut? This app is helping you!*
 
 # So, what is this?
@@ -46,3 +50,13 @@ Again, I don't know.
 ## Can I contribute to this project?
 
 Of course! This is GPLv3 license project, so you can contribute to it!
+
+# NOTE!
+
+The structure of files was changed, and now:
+<br>
+Alt folder - scripts of shortcuts using Alt key
+<br>
+Ctrl folder - scripts of shortcuts using Control key
+<br>
+Build folder - scripts of builded shortcuts (for Alt and Ctrl). (The same as in release)
